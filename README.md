@@ -1,0 +1,3 @@
+#DJANGO RESTFUL API
+
+Sample Restful API
